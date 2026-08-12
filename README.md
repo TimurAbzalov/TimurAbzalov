@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="resume_photo.jpg" width="180" style="border-radius: 50%; margin-right: 15px;"/>
   <img src="https://media.tenor.com/B6qhD35ucO8AAAAd/bloodcartier.gif" width="180"/>
   <!-- При загрузке на GitHub замените путь src первого фото на относительный, например src="resume_photo.jpg" -->
   
