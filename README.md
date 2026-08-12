@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="file:///C:/Users/TIMUR/.gemini/antigravity/brain/464377f2-28a6-4332-bcfb-608ef22dea0b/scratch/resume_photo.jpg" width="180" style="border-radius: 50%; margin-right: 15px;"/>
+  <img src="resume_photo.jpg" width="180" style="border-radius: 50%; margin-right: 15px;"/>
   <img src="https://media.tenor.com/B6qhD35ucO8AAAAd/bloodcartier.gif" width="180"/>
   <!-- При загрузке на GitHub замените путь src первого фото на относительный, например src="resume_photo.jpg" -->
   
@@ -25,8 +25,8 @@
 
 ### 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumitvolazba-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumitvolazba-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TimurAbzalov&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimurAbzalov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
