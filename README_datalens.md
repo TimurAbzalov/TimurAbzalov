@@ -26,8 +26,6 @@
 *Интерфейс итогового дашборда в Yandex DataLens:*
 <p align="center">
   <img src="images/datalens_dashboard_preview.png" width="800" alt="Скриншот дашборда Yandex DataLens">
-  <br>
-  <i>(Здесь будет скриншот или GIF вашего дашборда)</i>
 </p>
 
 Интерактивный дашборд, позволяющий фильтровать и анализировать метрики в разрезе:
