@@ -45,7 +45,7 @@
 | **A/B тест и Retention** | Анализ результатов A/B тестирования и расчет Retention Rate. Здесь считаются метрики в компании, которая разрабатывает мобильные игры. | `Python`, `Pandas`, `SciPy` | [Описание](README_ab_testing.md) \| [Код проекта](Retention%20a-b.ipynb) |
 | **Анализ данных E-commerce** | Изучение продуктовых метрик, анализ товарных позиций в заказах и поведения пользователей e-commerce. | `Python`, `Pandas`, `Plotly` | [Описание](README_ecommerce.md) \| [Код проекта](E-commerce%20analys.ipynb) |
 | **Анализ удовлетворенности покупателей** | Дашборд в Yandex DataLens для оценки удовлетворенности брендами на маркетплейсе (рейтинги, отзывы, анализ карточек товаров). | `DataLens` | [Описание](README_datalens.md) \| [Дашборд](https://datalens.yandex/od8ocz8hx03y7) \| [Канвас](https://disk.yandex.ru/d/x2ss18LPUXAXgw) |
-| **SME Survival Project** | Survival analysis of small businesses in Altai Krai using Federal Tax Service registry data, including survivorship bias and survival by industry and business type. | `Python`, `pandas`, `matplotlib`, `seaborn`, `lxml` | [Repository](https://github.com/TimurAbzalov/SME_Survival_Project) |
+| **SME Survival Project** | Исследование жизненного цикла субъектов малого и среднего предпринимательства (МСП) Алтайского края на основе данных Единого реестра МСП ФНС России. | `Python`, `pandas`, `matplotlib`, `seaborn`, `lxml` | [README](https://github.com/TimurAbzalov/SME_Survival_Project/blob/main/README.md) \| [Code](https://github.com/TimurAbzalov/SME_Survival_Project/blob/main/Altai_Business_Analysis.ipynb) |
 
 ### 📫 Как связаться со мной:
 <p>
